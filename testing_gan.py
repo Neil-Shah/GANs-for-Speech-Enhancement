@@ -11,8 +11,8 @@ import h5py
 import pickle
 
 ###########################################  directory ############################################
-mainfolder = "/home/Documents/final_f0"
-submainfoder = mainfolder + "/vGAN/context/utterences/200k"
+mainfolder = "/home/Documents/"
+submainfoder = mainfolder + "/GAN"
 
 directory_spectrum = submainfoder+'/test_spectrum'
 directory_model = submainfoder+'/model_pathGAN'
